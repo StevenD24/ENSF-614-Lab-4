@@ -1,4 +1,4 @@
-# ENSF 614 Assignment 4    
+# ENSF 614 Lab 4    
 An assignment on designing a dynamic array class, vector/string library classes, and file I/O in C++  
 
 ## Folder Structure 
